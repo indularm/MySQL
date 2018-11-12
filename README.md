@@ -79,6 +79,15 @@ result is as follows,
 
 <img src="Figure_2.png" alt="blobs" class="inline"/>
   
+To see the created table, 
+
+```mysql 
+SHOW TABLES
+```
+
+result is as follows, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
 
 
 
