@@ -75,7 +75,9 @@ CREATE TABLE soap_sales
     item_name VARCHAR
   );
 ```
+result is as follows, 
 
+<img src="Figure_2.png" alt="blobs" class="inline"/>
   
 
 
