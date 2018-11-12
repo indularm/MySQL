@@ -89,5 +89,14 @@ result is as follows,
 
 <img src="Figure_2.png" alt="blobs" class="inline"/>
 
+we can also view columns from a pasrticular table, 
+
+```mysql
+SHOW COLUMNS FROM soap_sales
+```
+result is as follows, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
 
 
