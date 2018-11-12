@@ -1,1 +1,1 @@
-
+The databases are important when handling large amount of data such as huge CSV files compared to Pandas Library, because Pandas is good at handling large amount of rows but not good at handling large amount of columns. 
