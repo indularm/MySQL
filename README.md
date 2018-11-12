@@ -8,3 +8,23 @@ Here first we'll discuss the basics of MySQL with examples and then discuss MySQ
 
 **Basics of MySQL**
 
+*What's a Database :* It's a collection of data with a methodology for accessing and handling the data. MySQL is the Database Management System (DBMS) that we use here to handle and access data. It sits inbetween the database and the user. SQL is the language that we'll use here to do the handling the way we want. There is a standard for SQL which is accepted by the industry and hence almost all the DBMS work on this standard SQL.
+
+To see the current databases, 
+
+```mysql
+show databases
+```
+result will be as follows,
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
+To create a database, 
+
+```mysql
+CREATE DATABASE hello_world_db
+```
+
+
+
+
