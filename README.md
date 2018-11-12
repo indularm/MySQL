@@ -96,7 +96,7 @@ SHOW COLUMNS FROM soap_sales
 ```
 OR
 
-``mysql
+```mysql
 DESC soap_sales
 ```
 
