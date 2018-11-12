@@ -123,6 +123,8 @@ now we can view data present in the table,
 
 <img src="Figure_2.png" alt="blobs" class="inline"/>
 
+Remeber that the order of entering data matters and should be entered in the order of field names, 
+
 
 
 
