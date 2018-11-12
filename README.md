@@ -55,5 +55,28 @@ result will tell you the database that you're currently working on is the SELECT
 
 <img src="Figure_2.png" alt="blobs" class="inline"/>
 
+Databse is made up of set of tables. That's what we use to store the data, 
+
+Hence we'll see how to create the tables, 
+
+```mysql 
+CREATE TABLE tablename
+  (
+    column_name data_type, 
+    column_name data_type
+  );
+```
+example, 
+
+```mysql 
+CREATE TABLE soap_sales
+  (
+    item_code INT,
+    item_name VARCHAR
+  );
+```
+
+  
+
 
 
