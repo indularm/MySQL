@@ -13,7 +13,7 @@ Here first we'll discuss the basics of MySQL with examples and then discuss MySQ
 To see the current databases, 
 
 ```mysql
-show databases
+SHOW DATABASES
 ```
 result will be as follows,
 
