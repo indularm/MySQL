@@ -33,5 +33,27 @@ To delete a database,
 ```mysql
 DROP DATABASE hello_world_db
 ```
+result will be as follows, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
+To tell the DBMS which database that we're woking with,
+
+```mysql 
+USE soap_store
+```
+result will be as follows, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
+Another similar command is, 
+
+```mysql
+SELECT database()
+```
+result will tell you the database that you're currently working on is the SELECTed databse, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
 
 
