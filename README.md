@@ -24,7 +24,14 @@ To create a database,
 ```mysql
 CREATE DATABASE hello_world_db
 ```
+result will be as follows, 
+  
+<img src="Figure_2.png" alt="blobs" class="inline"/>
 
+To delete a database, 
 
+```mysql
+DROP DATABASE hello_world_db
+```
 
 
