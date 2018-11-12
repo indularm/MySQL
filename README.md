@@ -107,6 +107,22 @@ result is as follows,
 To delete a table, 
 
 ```mysql
+DROP TABLE <table_name>
+```
+result is as follows, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
+Now let's see how to put data into the tables, 
+
+```mysql 
+INSERT INTO soap_sales(item_codes, name)
+VALUES(150487, 'Pumpkin');
+```
+now we can view data present in the table, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
 
 
 
