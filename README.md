@@ -89,11 +89,17 @@ result is as follows,
 
 <img src="Figure_2.png" alt="blobs" class="inline"/>
 
-we can also view columns from a pasrticular table, 
+we can also view columns from a particular table, 
 
 ```mysql
 SHOW COLUMNS FROM soap_sales
 ```
+OR
+
+``mysql
+DESC soap_sales
+```
+
 result is as follows, 
 
 <img src="Figure_2.png" alt="blobs" class="inline"/>
