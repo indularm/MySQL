@@ -128,7 +128,7 @@ Remeber that the order of entering data matters and should be entered in the ord
 To see the data entered you can do the following, 
 
 ```mysql
-SELECT * FROM soal_sales
+SELECT * FROM soap_sales
 ```
 
 result will be as follows, 
