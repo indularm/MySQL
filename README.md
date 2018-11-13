@@ -125,6 +125,17 @@ now we can view data present in the table,
 
 Remeber that the order of entering data matters and should be entered in the order of field names, 
 
+To see the data entered you can do the following, 
+
+```mysql
+SELECT * FROM soal_sales
+```
+
+result will be as follows, 
+
+<img src="Figure_2.png" alt="blobs" class="inline"/>
+
+
 
 
 
